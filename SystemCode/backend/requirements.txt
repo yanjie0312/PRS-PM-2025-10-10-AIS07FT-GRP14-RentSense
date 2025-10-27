@@ -28,10 +28,6 @@ httpx==0.26.0
 folium==0.16.0
 
 # data processing
-pandas==2.2.3
-scipy==1.13.1
-
-
 # recommender training
 numpy==1.26.4
 scipy==1.11.4
