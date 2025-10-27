@@ -26,3 +26,7 @@ httpx==0.26.0
 
 # mapping
 folium==0.16.0
+
+# data processing
+pandas==2.2.3
+scipy==1.13.1
